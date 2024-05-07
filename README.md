@@ -5,7 +5,7 @@
 This is a password manager that keeps digital life secure and hassle-free. I made this using HTML, CSS, JAVA-SCRIPT
 
 # Demo Link :
-http://127.0.0.1:5500/index.html
+https://saikarthik090.github.io/PassAssist---Password-Manager/
 
 ## Screenshots
 
